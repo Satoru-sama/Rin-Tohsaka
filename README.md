@@ -30,7 +30,7 @@
   
 <img src='https://www.herokucdn.com/deploy/button.png'>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/project/c7424cf8-21ce-4db0-9ddf-c5cc5214cc35/service/423492c1-de18-4041-b697-7cd028f1f146/variables)
   
 </a>
   
